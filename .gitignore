@@ -109,3 +109,5 @@ venv.bak/
 
 ### Custom ignores
 api_key.py
+map.html
+heatmap.png
