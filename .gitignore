@@ -111,3 +111,4 @@ venv.bak/
 api_key.py
 map.html
 heatmap.png
+output/
